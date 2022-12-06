@@ -18,5 +18,7 @@ fn main() {
         this += num;
     }
 
+    max = if max < this { this } else { max };
+
     println!("max: {}", max);
 }
