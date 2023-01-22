@@ -58,6 +58,14 @@ path = "src/d7/part1.rs"
 [[bin]]
 name = "d7p2"
 path = "src/d7/part2.rs"
+
+[[bin]]
+name = "d8p1"
+path = "src/d8/part1.rs"
+
+[[bin]]
+name = "d8p2"
+path = "src/d8/part2.rs"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
